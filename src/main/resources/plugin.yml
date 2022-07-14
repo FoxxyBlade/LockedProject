@@ -1,0 +1,9 @@
+name: LDev
+version: '${project.version}'
+main: com.foxdev.ldev.LDev
+authors: [ FoxxyBlade ]
+description: Made by Locked Development
+
+commands:
+  gui:
+    description: Made a gui
